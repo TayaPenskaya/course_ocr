@@ -2,7 +2,7 @@
 
 ## РЕЗУЛЬТАТЫ
 
-Финальное accuracy: 0.9624
+Финальное accuracy: 0.9624 \
 Ссылка на модель: https://drive.google.com/file/d/14YPEqzJcNTgeX2sat0yW7Cy2D_zUW19M/view?usp=sharing
 
 ## Описание
