@@ -1,5 +1,9 @@
 # Задание 2: распознавание рукописных китайских иероглифов
 
+## Результы
+Финальное accuracy: 0.9179 \
+Ссылка на модель: https://drive.google.com/file/d/1kMpGjuonJSx8htYuwGB3ZVSN7NkNQVhw/view?usp=sharing
+
 ## Описание
 
 Предлагается реализовать и протестировать обучаемое распознавание символов на примере датасета `CASIA Offline Chinese Handwriting`
